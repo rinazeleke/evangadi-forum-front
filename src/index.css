@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  color: #191919;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+
+  line-height: 26px;
+  overflow-x: hidden;
+  background-color: #fbfbfb;
+}
